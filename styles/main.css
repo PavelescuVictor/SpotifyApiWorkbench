@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  border: none;
+  border-radius: 50px;
+  color: rgb(38, 136, 90);
+  font-size: 2rem;
+  padding: 15px 25px;
+}
